@@ -1,0 +1,40 @@
+What are the steps to report bugs in the Services & Feedback app?
+Question: How can you enable permissions for the camera in third-party apps if it is not working?
+What is the process for manually updating the MIUI software on a phone?
+What are the steps to troubleshoot mobile data not working on a device?
+What should be done if the touch panel on a phone is not working?
+What is the name of the app that can be used to control the TV using an Android phone?
+What are the three types of Mi TV remotes mentioned in the context?
+What are the steps to follow when a third-party app is crashing on a device?
+What is the process for connecting the Set Top Box to the TV?
+What steps can be taken to troubleshoot internet connectivity issues on mobile data?
+What are the troubleshooting steps to follow if the Wi-Fi switch doesn't respond when trying to turn it on or off?
+What are the steps to reset a phone if the hardware test fails?
+What are the steps to follow if an app is crashing or lagging on a device?
+What are some functions of a USB port on a TV?
+Question: What are the troubleshooting steps to follow if there is no output visible on the TV when connected to a set-top box through an HDMI cable?
+What are three steps that can be taken to resolve an issue with the UPI app?
+What are the troubleshooting steps to improve poor display/video quality on a Mi TV?
+What are the steps to troubleshoot a network signal or SIM card detection issue on a phone?
+What troubleshooting steps should be taken if there is no video, only audio playing on a Mi TV?
+What are the steps to improve the picture quality on the camera of the device?
+What are the possible solutions if a phone is unable to turn on?
+What are the steps to fix apps that are not working on Mi TV?
+What steps should be taken to troubleshoot a line/noise/grains/half display issue on a TV and STB?
+What are the steps to fix the issue of wifi getting connected but unable to stream videos due to ISP fetching wrong date and time?
+What troubleshooting steps should be taken if the main speaker volume in a phone is low?
+What are the troubleshooting steps to fix the screen mirroring issue on Mi TV?
+What steps can be taken to address device lag issues while gaming?
+What are the troubleshooting steps to resolve casting issues on a Mi TV?
+What are the steps to perform a factory reset on a PatchWall TV?
+What features does the TV Manager on Mi TV offer to optimize and boost memory?
+Question: How can you hide personal photos and videos in the Media Player?
+What are the steps to check if the internet is working on mobile data?
+What steps can be taken to allow WhatsApp to access contacts on a device?
+What are the troubleshooting steps to fix casting issues on Mi TV?
+What troubleshooting steps should be taken if the Wi-Fi is not working on a Mi TV?
+What steps can be taken to address lag issues on a phone during normal usage?
+What are the steps to check if a SIM card is working properly in a mobile phone?
+What are the troubleshooting steps for resolving the issue of no sound in an external ARC device connected to a Mi TV?
+What are the steps to troubleshoot a device that is not charging according to the provided context?
+What troubleshooting steps can be taken if the Mi TV app is not working?
